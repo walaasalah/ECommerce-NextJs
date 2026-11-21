@@ -21,6 +21,8 @@
 /build
 
 # misc
+/.design-reference/
+/.qa/
 .DS_Store
 *.pem
 
